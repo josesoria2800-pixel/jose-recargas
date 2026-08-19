@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/verificar.js": {
+      "maxDuration": 10
+    },
+    "api/avatar.js": {
+      "maxDuration": 10
+    }
+  }
+}
